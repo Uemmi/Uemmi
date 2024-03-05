@@ -1,8 +1,6 @@
-# Ümmünur (Ümmi) Armagan's GitHub Profile
-
 ## About Me
 
-I'm Ümmünur, a master's student at ETH Zurich, navigating the intricate world of biology through the lens of data science. By day, I'm deciphering the secrets of cells 🔬, and by night, I'm sculpting algorithms that breathe life into data! 💻✨
+I'm Ümmi, a master's student at ETH Zurich, navigating the intricate world of biology through the lens of data science. By day, I'm deciphering the secrets of cells 🔬, and by night, I'm sculpting algorithms that breathe life into data! 💻✨
 
 ## My Projects
 
