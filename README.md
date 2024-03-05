@@ -1,10 +1,10 @@
 ## About Me
 
-I'm Ümmi, a master's student at ETH Zurich, navigating the intricate world of biology through the lens of data science. By day, I'm deciphering the secrets of cells 🔬, and by night, I'm sculpting algorithms that breathe life into data! 💻✨
+I'm Ümmi, a bioinformatic master's student at ETH Zurich, navigating the intricate world of biology through the lens of data science. By day, I'm deciphering the secrets of cells 🔬, and by night, I'm sculpting algorithms that breathe life into data! 💻✨
 
 ## My Projects
 
-### Metagraph Mastery 📊
+### MetaGraph Mastery 📊
 
 At [ratschlab/metagraph](https://github.com/ratschlab/metagraph/tree/column_tests), I've been deeply engaged in developing statistical tests for differential assembly, a part of my master's thesis.MetaGraph is a tool for scalable construction of annotated genome graphs and sequence-to-graph alignment. Join us as we navigate through nodes and edges, unraveling the tapestry of cellular analysis! 🎨🔍
 
@@ -19,7 +19,3 @@ Beyond the realms of biology and code, I've embarked on a personal project explo
 ## Let's Connect!
 
 Whether you're passionate about bioinformatics breakthroughs, curious about cutting-edge machine learning applications, or intrigued by the intersection of neuroscience and gaming, I'm always eager to dive into stimulating discussions! 💬✨ Let's embark on a journey of discovery together! 🚀🌈
-
-## Keep Coding, Keep Exploring!
-
-In the boundless expanse of data and algorithms, every project is a portal to new insights, every line of code a step towards understanding. Let's continue to code, explore, and innovate, shaping the future through our shared passion for knowledge and discovery! 💡💻
